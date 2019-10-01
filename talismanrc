@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: flying_bee/scene.gltf
+  checksum: e24d9baa6720148e17b16cffc2d393ead8bfeb2fc4ea3cf370b2abd810a38bc7
+  ignore_detectors: []
